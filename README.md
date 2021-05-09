@@ -4,7 +4,7 @@ A GUI version of yt-dlp to download content from Paramount+. This works with Win
 # How do I download this?
 Check the releases tab for the latest version. For nightly's they'll be here on the source code.
 
-To work the downloader you'll need yt-dlp and ffmpeg on the root of the batch or else it won't work.
+To work the downloader you'll need yt-dlp ( https://github.com/yt-dlp/yt-dlp ) and ffmpeg ( https://ffmpeg.org/ ) on the root of the batch or else it won't work.
 
 # Credits
 - yt-dlp Team for yt-dlp
