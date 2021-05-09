@@ -7,6 +7,6 @@ Check the releases tab for the latest version. For nightly's they'll be here on 
 To work the downloader you'll need yt-dlp and ffmpeg on the root of the batch or else it won't work.
 
 # Credits
-yt-dlp Team for yt-dlp
-ffmpeg for the biggest codec converter ever
-RiiConnect24 and the NSMBW Mod Tool for learning how to code the batch file
+- yt-dlp Team for yt-dlp
+- ffmpeg for the biggest codec converter ever
+- RiiConnect24 and the NSMBW Mod Tool for learning how to code the batch file
